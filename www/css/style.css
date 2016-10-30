@@ -1,1 +1,32 @@
 /* Empty. Add your own CSS if you like */
+.imgsquare{
+	width:300px;
+	height:300px;
+	margin-left:20px;
+	margin-bottom:20px;
+	border:2px solid black
+}
+
+.centered{
+	text-align: center;
+}
+.selectionBox{
+	border:1px solid lightblue;
+	height:50px;
+}
+.sort{
+	display:inline-block;
+	float:left;
+	margin-left:10px;
+	margin-top: 15px;
+}
+
+.options{
+	display:inline-block;
+	margin-left:60%;
+	margin-top: 15px;
+}
+.centreTitle{
+	font-weight: bold;
+	text-align: center;
+}
