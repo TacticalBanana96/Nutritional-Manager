@@ -30,3 +30,22 @@
 	font-weight: bold;
 	text-align: center;
 }
+
+.scan{
+	margin-top: 80px;
+	width: 300px;
+}
+
+.logo{
+	width:100%;
+	margin-top:20px;
+	margin-left:10px;
+}
+.bannerCol{
+	background-color: #ffc233;
+	color:#4d4dff;
+}
+
+.colour{
+	background-color: #fff1d3;
+}
